@@ -122,6 +122,27 @@ Add `RammsAssets` to your project's `.uproject` plugin dependencies:
 Assets can then be referenced from Blueprints or C++ using their content paths,
 e.g. `/RammsAssets/Robots/KinovaGen3/Arm/SkeletalMeshes/gen3_6dof`.
 
+## Credits
+
+This section contains the credits for 3rd party free assets included in this plugin.
+
+<details>
+<summary>Click to expand</summary>
+
+* "Kitchen Cabinets" (Https://Skfb.Ly/Omxqy) By Ezequiel Oliveira Is Licensed Under Creative Commons Attribution (Http://Creativecommons.Org/Licenses/By/4.0/).
+* "Electronics_kitchen" (https://skfb.ly/ouVqZ) by Elbolillo is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+* "Cabinet A" (https://skfb.ly/6TQxW) by cirno is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+* "Cabinets and shelf IKEA style" (https://skfb.ly/6WMVS) by janexx (looking for work) is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+* "Fridge" (https://skfb.ly/ony7U) by Red Fox / nokillnando is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+* "Low-Poly Mini Fridge" (https://skfb.ly/pDuOu) by TepidGames is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+* "Microwave Rigged (Free - NonCommercial)" (https://skfb.ly/6wQzI) by 3DHaupt is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+* "Microwave" (https://skfb.ly/pEFBu) by carlcapu9 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+* "Microwave Oven" (https://skfb.ly/o6Jzq) by MustafaYerebasmaz is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+* "Microwave Oven" (https://skfb.ly/6RrWD) by Fantom Matter is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+* "Hamilton Beach 1.1 Stainless Steel Microwave" (https://skfb.ly/ooKHt) by Full Quest is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+</details>
+
 ## License
 
 MIT — see [LICENSE](LICENSE) for details.
