@@ -25,8 +25,8 @@ Content/
 │   │       ├── SkeletalMeshes/   kinova_gripper + skeleton + physics asset
 │   │       └── Materials/        13 color materials
 │   └── RAMMP/               RAMMP mobile manipulator platform
-│       ├── Base/            Mebot chassis, drive wheels, casters, elevator
-│       │   ├── SkeletalMeshes/   mebot + skeleton + physics asset
+│       ├── Base/            RAMMP Gen1 chassis, drive wheels, casters, elevator
+│       │   ├── SkeletalMeshes/   rammp_gen1 + skeleton + physics asset
 │       │   └── Materials/        19 mechanical part materials
 │       └── Seat/            Operator seating module
 │           └── Materials/        37 materials + SM_seat_2 static mesh
@@ -63,16 +63,16 @@ defining finger joint constraints.
 | `kinova_gripper` | Rigged skeletal mesh (finger links) |
 | `kinova_gripper_PhysicsAsset` | Finger joint constraints |
 
-### RAMMP Mobile Base (Mebot)
+### RAMMP Gen1 Mobile Base
 
-The Mebot chassis includes drive wheels, caster assemblies with suspension
+The RAMMP Gen1 chassis includes drive wheels, caster assemblies with suspension
 linkages, and an elevator mechanism — all as a single skeletal mesh with
 physics constraints.
 
 | Asset | Description |
 |-------|-------------|
-| `mebot` | Rigged skeletal mesh (wheels, casters, elevator) |
-| `mebot_PhysicsAsset` | Drive, caster, and elevator constraints |
+| `rammp_gen1` | Rigged skeletal mesh (wheels, casters, elevator; its root bone is still named `mebot`) |
+| `rammp_gen1_PhysicsAsset` | Drive, caster, and elevator constraints |
 
 ### Operator Seat
 
